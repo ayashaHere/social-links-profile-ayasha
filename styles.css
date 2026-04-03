@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Inter Thin';
+    src: url(./social-links-profile-main/assets/fonts/static);
+    font-family: 'Inter';
+    src: url(./social-links-profile-main/assets/fonts/static);
+    font-family: 'Inter SemiBold';
+    src: url(./social-links-profile-main/assets/fonts/static);
+}
+body {
+    background-color: #141414;
+    color: #fcfcfc;
+    font-family: Inter Thin;
+}
+div {
+    text-align: center;
+    background-color:#1f1f1f;
+    border-radius: 10px;
+    margin: 60px;
+    padding: 30px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#loc {
+    color:#b3c767;
+    margin: 10px;
+    font-family: Inter;
+}
+#prof {
+    margin: 35px;
+    font-family: Inter Thin;
+}
+.links {
+ background-color:#333333;
+ border-radius: 5px;
+ margin: 20px;
+ padding: 15px;
+ display: block;
+ text-decoration: none;
+ color: #fcfcfc;
+ font-weight: bolder;
+ font-family: Inter;
+}
+h2 {
+    font-family: Inter Semibold;
+}
+.attribution {
+    text-align: center;
+    
+}
+img {
+    border-radius: 100px;
+    width: 25%;
+    margin: 10px;
+}
+p {
+    display: inline;
+}
+a {
+    text-decoration: none;
+    color: #b3c767;
+}
